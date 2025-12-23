@@ -1,1 +1,1 @@
-console.log("Hello from JavaScript branch - Version 1");
+console.log("Hello from JavaScript branch - Version 2);
